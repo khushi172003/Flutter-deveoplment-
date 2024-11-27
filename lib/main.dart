@@ -30,7 +30,7 @@ class _SignInScreenState extends State<SignInScreen> {
   bool _isButtonEnabled = false;
 
   // Hardcoded credentials for validation
-  final String _validEmail = "test@stanch.io";
+  final String _validEmail = "test@stanch.com";
   final String _validPassword = "Test@123";
 
   void _checkFormValidity() {
